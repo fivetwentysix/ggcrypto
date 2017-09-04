@@ -21,7 +21,11 @@ Shell into your server with either SSH keys (preferred) or username and password
 
 Install the build dependencies running this command:
 
-`sudo apt-get install build-essential git cmake libboost1.55-all-dev`
+```
+sudo apt-get update
+sudo apt-get upgrade -y
+sudo apt-get install build-essential git cmake libboost1.55-all-dev
+```
 
 Clone the repository:
 
