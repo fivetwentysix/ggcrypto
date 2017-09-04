@@ -10,7 +10,7 @@ You can get one Virtual Machine in the cloud with many well known providers:
 * AWS EC2
 * Google Compute Engine
 * Alibaba Cloud
-* Digital Ocean
+* [Digital Ocean](https://m.do.co/c/a03123d75450)
 * And more rougly $30 usd a month
 
 Tested with 4GB ram and above.
