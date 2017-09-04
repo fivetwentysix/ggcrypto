@@ -16,7 +16,7 @@ Clone the repository:
 
 Build
 
-`cd ggcrypo; make`
+`cd ggcrypto; make`
 
 Link to path
 
