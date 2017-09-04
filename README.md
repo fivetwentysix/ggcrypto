@@ -15,7 +15,11 @@ You can get one Virtual Machine in the cloud with many well known providers:
 
 Tested with 4GB ram and above.
 
-Install build dependencies
+Shell into your server.
+
+## Setting up
+
+Install the build dependencies running this command:
 
 `sudo apt-get install build-essential git cmake libboost1.55-all-dev`
 
@@ -23,7 +27,7 @@ Clone the repository:
 
 `git clone https://github.com/ggcrypto/ggcrypto`
 
-Build
+## Build
 
 `cd ggcrypto; make`
 
@@ -37,25 +41,15 @@ ln -s $HOME/ggcrypto/build/release/src/ggcryptod
 ln -s $HOME/ggcrypto/build/release/src/walletd
 ```
 
-Run
+## Run
 
-`ggcryptod` to start a node
-`ggcryptowallet` to start you wallet
+* `ggcryptod` to start a node
+* `ggcryptowallet` to start you wallet
 
-Mining
+## Mining
 
 Inside `ggcryptowallet` shell type:
 
 `start_mining`
 
 Profit!
-
-
-
-## CryptoNote
-
-This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
-
-* Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
-* CryptoNote reference implementation: [CryptoNoteCoin](https://cryptonote-coin.org)
-* Discussion board and support: [CryptoNote Forum](https://forum.cryptonote.org)
