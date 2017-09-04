@@ -4,6 +4,15 @@ GGCRYPTO is based on CryptoNote. This is the repository to explore the codebase 
 
 ## Setting up a node and wallet on Ubuntu 14.04
 
+You can get one Virtual Machine in the cloud with many well known providers:
+
+* Rackspace
+* AWS EC2
+* Google Compute Engine
+* Alibaba Cloud
+* Digital Ocean
+* And more rougly $30 usd a month
+
 Tested with 4GB ram and above.
 
 Install build dependencies
