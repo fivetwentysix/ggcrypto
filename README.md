@@ -32,8 +32,9 @@ Link to path
 ```
 mkdir $HOME/bin
 cd $HOME/bin
-ln -s $HOME/ggcrypto/build/release/simplewallet ggcryptowallet
-ln -s $HOME/ggcrypto/build/release/ggcryptod
+ln -s $HOME/ggcrypto/build/release/src/simplewallet ggcryptowallet
+ln -s $HOME/ggcrypto/build/release/src/ggcryptod
+ln -s $HOME/ggcrypto/build/release/src/walletd
 ```
 
 Run
