@@ -12,7 +12,7 @@ Install build dependencies
 
 Clone the repository:
 
-`git clone https://github.com/ggcrypto/ggcrypto'
+`git clone https://github.com/ggcrypto/ggcrypto`
 
 Build
 
