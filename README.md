@@ -15,7 +15,7 @@ You can get one Virtual Machine in the cloud with many well known providers:
 
 Tested with 4GB ram and above.
 
-Shell into your server.
+Shell into your server with either SSH keys (preferred) or username and password. If you easily available client would be [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo?hl=en) which is a addon for Chrome.
 
 ## Setting up
 
