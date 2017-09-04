@@ -62,9 +62,9 @@ To start TMUX: `tmux new`
 
 You can press:
 
-* `CTRL + B` `,` `ARROW_KEY`
-* `CTRL + B` `,` `%`
-* `CTRL + B` `,` `"`
+* `CTRL + B`, `ARROW_KEY`
+* `CTRL + B`, `%`
+* `CTRL + B`, `"`
 
 to split and navigate windows
 
