@@ -15,7 +15,7 @@ You can get one Virtual Machine in the cloud with many well known providers:
 
 Tested with 4GB ram and above.
 
-Shell into your server with either SSH keys (preferred) or username and password. If you easily available client would be [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo?hl=en) which is a addon for Chrome.
+Shell into your server with either SSH keys (preferred) or username and password. Try [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo?hl=en) which is a SSH addon for Chrome.
 
 ## Setting up
 
@@ -53,3 +53,19 @@ Inside `ggcryptowallet` shell type:
 `start_mining`
 
 Profit!
+
+## Terminal Split Screen & Keep Alive
+
+I suggest using TMUX which can be installed using `sudo apt-get install -y ymux`
+
+To start TMUX: `tmux new`
+
+You can press:
+
+* `CTRL + B` `,` `ARROW_KEY`
+* `CTRL + B` `,` `%`
+* `CTRL + B` `,` `"`
+
+to split and navigate windows
+
+Closing the shell running a TMUX instance does not close TMUX so this is a great way to run both the node and the wallet indefinately.
