@@ -60,7 +60,7 @@ Profit!
 
 ## Terminal Split Screen & Keep Alive
 
-I suggest using TMUX which can be installed using `sudo apt-get install -y ymux`
+I suggest using TMUX which can be installed using `sudo apt-get install -y tmux`
 
 To start TMUX: `tmux new`
 
