@@ -1,5 +1,9 @@
 # GGCRYPTO
 
+Disclaimer: This is a experimental project. We may discontinue this and fork at anytime.
+Treat involvement as educational purposes only. There is no guarentee or even likelyness of these tokens
+ever being worth anything.
+
 GGCRYPTO is based on CryptoNote. This is the repository to explore the codebase of the blockchain.
 
 ## Setting up a node and wallet on Ubuntu 14.04
